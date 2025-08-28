@@ -1,7 +1,7 @@
 import pygame
 import os
 import random
-
+#:)
 pygame.init()
 
 clock = pygame.time.Clock()
